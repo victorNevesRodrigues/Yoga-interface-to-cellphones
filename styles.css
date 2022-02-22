@@ -1,0 +1,80 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  background: #eee;
+}
+#mainSimbol {
+  display: block;
+  margin: 195px auto 122.65px;
+}
+
+input {
+  width: 321px;
+  height: 46px;
+  background-color: #fff;
+  box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+  padding-left: 17px;
+  font-size: 20px;
+  font-weight: 10px;
+}
+
+
+.pass {
+  margin-top: 21px;
+}
+
+.forgot {
+  margin-top: 35px;
+  display: block;
+  margin: 35px 0px 0px 223px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 15px;
+  color: #000;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  display: block;
+  margin: 38px auto 21px auto;
+  background: #323232;
+  box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+  border-radius: 10px;
+  width: 133px;
+  height: 46px;
+  color: #fff;
+}
+
+.sign {
+  color: #969696;
+  display: block;
+  text-align: center;
+  margin-bottom: 42px;
+}
+
+span {
+  color: #000;
+}
+
+.or {
+  text-align: center;
+  display: block;
+  margin-bottom: 18.5px;
+}
+.icons {
+  text-align: center;
+}
+
+.imgCenter {
+  margin: 0px 16.5px 0px 16.5px;
+}
