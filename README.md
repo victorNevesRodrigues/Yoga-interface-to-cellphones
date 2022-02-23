@@ -1,2 +1,2 @@
-# Yoga interface to iphoneX
+# Yoga interface to cellphones
  
