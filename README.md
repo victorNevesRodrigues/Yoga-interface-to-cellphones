@@ -7,7 +7,7 @@
  One of my first HTML and CSS projects, <a href="https://victorurbanfashion.netlify.app/">click here to access the page</a>
 </h4>
 
-<img align="center" src="https://i.imgur.com/rBg3y0s.png" alt="site image"/>
+<img align="center" src="https://i.imgur.com/zn1q1Cz.png" alt="site image"/>
 
 ## :rocket: Technologies
 
@@ -22,7 +22,7 @@ This project was developed with the following technologies:
 
 <h3 align="center">Mobile</h3>
 <h1 align="center">
-    <img  alt="mobile image" src="https://i.imgur.com/12pF9Xw.gif" />
+    <img  alt="mobile image" src="https://i.imgur.com/9coRxij.gif" />
     <br>
 </h1>
 
